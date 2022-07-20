@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**alitheDev/alitheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m intrested in Mobile App Devolepment, Cyber Security, Data Science.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Cyber Security, Linux, API'S.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on my pinned Repositories.
+
+- 📫 Reach Me: 
+
+~ muhammadalisohail7996@gmail.com
+~ 0303-0906606 (Whatsapp)
+~ 0349-4838542 (Whatsapp)
+
+- ⚡ Motto: Declare variable not Wars, Execaute Programs Not People.
