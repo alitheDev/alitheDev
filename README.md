@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m intrested in **Mobile App Devolepment, Cyber Security, Data Science.**
+- 🔭 I’m intrested in **Computer Science.**
 
 - 👯 I’m looking to *collaborate on my Pinned Repositories.*
 
