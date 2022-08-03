@@ -6,12 +6,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m intrested in **Computer Science.**
+- 🔭 I’m intrested in **Sub Domains of Computer Science.**
 
-- 👯 I’m looking to *collaborate on my Pinned Repositories.*
+- 👯 I love if you use my source code & *collaborate on my Repositories.*
 
-- 📫 Reach Me: muhammadalisohail7996 at gmail dot com
-
+- 📫 Contact: muhammadalisohail7996 at gmail dot com
 
 - ⚡ Motto: Declare variable not Wars, Execaute Programs Not People.
 
