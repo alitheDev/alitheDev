@@ -14,7 +14,7 @@
 
 - ⚡ Motto: Declare variable not Wars, Execaute Programs Not People.
 
-- 🙂 Nickname: Rana G
+###  🙂 ABC: Always Be Coding
 
 Links:
 
