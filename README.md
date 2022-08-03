@@ -1,3 +1,9 @@
+
+<p align="center">
+   ![image](https://user-images.githubusercontent.com/48137657/182609850-e4d0f3ef-048a-4c14-9b02-a3030f94cf90.png)
+</p>
+
+
 ### Hi there 👋
 
 - 🔭 I’m intrested in **Computer Science.**
