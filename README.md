@@ -1,15 +1,3 @@
-
-
-   ![image](https://user-images.githubusercontent.com/48137657/182609850-e4d0f3ef-048a-4c14-9b02-a3030f94cf90.png)
-
-
- 🔭 I’m intrested in **Sub Domains of Computer Science.**
-
-
- ⚡ Motto: Declare variable not Wars, Execaute Programs Not People.
-
-  🙂 ABC: Always Be Coding
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitheDEV&hide=javascript,css,scss,html&theme=tokyonight)
 
 Links:
