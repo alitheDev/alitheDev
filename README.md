@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitheDEV&hide=javascript,css,scss,html&theme=tokyonight)
 
-Social Links:
+# Social Links:
 
 **Stackoverflow:** https://stackoverflow.com/users/10589426/muhammad-ali?tab=profile
 
