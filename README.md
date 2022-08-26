@@ -1,3 +1,11 @@
+# Github Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alitheDev)](https://github.com/alitheDev/github-readme-stats)
+
+# Tech Stack:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitheDEV&hide=javascript,css,scss,html&theme=tokyonight)
+
 # Poetry:
 
 Code e nadaa'n tujhe huwa kia he, 💔
@@ -7,10 +15,6 @@ Akhir is BUG ki dawa kia he...! 💊
 Hum hein pareshan or server hairan, 😧
 
 Ya ilahi ye maajra kia he. 🤔
-
-# Tech Stack:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitheDEV&hide=javascript,css,scss,html&theme=tokyonight)
 
 # Links:
 
