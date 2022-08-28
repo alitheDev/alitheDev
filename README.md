@@ -21,6 +21,11 @@ Hum hein pareshan or server hairan, 😧
 
 Ya ilahi ye maajra kia he. 🤔
 
+# Routine:
+
+![giphy (1)](https://user-images.githubusercontent.com/48137657/187064981-4993ab18-35b9-4a52-b751-bc1ce21122bb.gif)
+
+
 # Links:
 
 - **Stackoverflow:** https://stackoverflow.com/users/10589426/muhammad-ali?tab=profile
