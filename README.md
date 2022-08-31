@@ -24,9 +24,3 @@ Akhir is BUG ki dawa kia he...! 💊
 Hum hein pareshan or server hairan, 😧
 
 Ya ilahi ye maajra kia he. 🤔
-
-# Links:
-
-- **Stackoverflow:** https://stackoverflow.com/users/10589426/muhammad-ali?tab=profile
-
-- **LinkedIn:** https://www.linkedin.com/in/muhammad-ali-6baaaa177 
