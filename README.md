@@ -10,17 +10,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alitheDev)](https://github.com/alitheDev/alitheDev)
 
-# Routine:
+# Advice:
 
-![giphy (1)](https://user-images.githubusercontent.com/48137657/187064981-4993ab18-35b9-4a52-b751-bc1ce21122bb.gif)
-
-
-# Poetry:
-
-Code e nadaa'n tujhe huwa kia he, 💔
-
-Akhir is BUG ki dawa kia he...! 💊
-
-Hum hein pareshan or server hairan, 😧
-
-Ya ilahi ye maajra kia he. 🤔
+![image](https://user-images.githubusercontent.com/48137657/187839660-06b1999a-5289-423c-adb7-31c160c4e88b.png)
