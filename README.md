@@ -1,15 +1,14 @@
-## Hi there 👨🏻‍💻, Ali Here
-I am Muhammad Ali, a Professional computer programmer with four years of expertise in the coding field. I chose to learn programming by pursuing my passion. My Facebook page can be found here.
+## 👨🏻‍💻 Hi there , Ali Here
 
-👉 I’m currently learning new frameworks and technologies.
-📫 How to reach me: muhammadalisohail7996@gmail.com
-🚀 Some of my main projects:
+I am Muhammad Ali, a computer programmer with four years of expertise in the coding field. I chose to learn programming by pursuing my passion, and tracing bug is my favourite sport. 
 
--
--
--
--
--
+&
+
+- 👉 I’m currently learning new frameworks and technologies.
+- 📫 How to reach me: muhammadalisohail7996@gmail.com
+- 🎙️ Twitter handle: https://twitter.com/rmaliofficial
+
+## 🏆My projects are of Data Science, CryptoGraphy, Data Structures, Stenography, and lots more...
 
 # Github Stats
 
