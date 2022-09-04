@@ -1,14 +1,14 @@
 ## 👨🏻‍💻 Hi there , Ali Here
 
-I am Muhammad Ali, a computer programmer with four years of expertise in the coding field. I chose to learn programming by pursuing my passion, and tracing bug is my favourite sport. 
+I am Muhammad Ali, a computer programmer with four years of expertise in the coding field. I picked to learn CS because because of my passion.
 
 &
 
-- 👉 I’m currently learning new frameworks and technologies.
+- 👉 I’m currently learning new frameworks and technologies to explore my true potential.
 - 📫 How to reach me: muhammadalisohail7996@gmail.com
 - 🎙️ Twitter handle: https://twitter.com/rmaliofficial
 
-## 🏆My projects are of Data Science, CryptoGraphy, Data Structures, Stenography, and lots more...
+## 🏆My projects are of _Data Science, CryptoGraphy, Data Structures, Stenography,_ and lots more...
 
 # Github Stats
 
