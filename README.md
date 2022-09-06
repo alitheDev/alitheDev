@@ -7,6 +7,7 @@ I am Muhammad Ali, a computer programmer with four years of expertise in the cod
 - 👉 I’m currently learning new frameworks and technologies to explore my true potential.
 - 📫 How to reach me: muhammadalisohail7996@gmail.com
 - 🎙️ Twitter handle: https://twitter.com/rmaliofficial
+- ✍️ I Post Blogs here: https://sites.google.com/view/tutorialsbyali/home
 
 ## 🏆My projects are of _Data Science, CryptoGraphy, Data Structures, Stenography,_ and lots more...
 
