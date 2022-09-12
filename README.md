@@ -4,7 +4,7 @@
 - 📫 How to reach me: muhammadalisohail7996@gmail.com
 - 🎙️ My Twitter handle: https://twitter.com/rmaliofficial
 - ✍️ I Post Blogs here: https://sites.google.com/view/tutorialsbyali/home
-- 🏆 I like _Cyber Security, CryptoGraphy, AI_
+- 🏆 I like _"Python"_
 
 # Github Stats
 
