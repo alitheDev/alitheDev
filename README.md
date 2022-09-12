@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Hi there , Ali Here
 
-- 👉 I’m currently learning new frameworks and technologies to explore my true potential in software industry.
+- 👉 I’m currently learning new technologies to explore my true potential in software industry.
 - 📫 How to reach me: muhammadalisohail7996@gmail.com
 - 🎙️ My Twitter handle: https://twitter.com/rmaliofficial
 - ✍️ I Post Blogs here: https://sites.google.com/view/tutorialsbyali/home
