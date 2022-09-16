@@ -6,11 +6,11 @@
 - ✍️ I Post Blogs here: https://sites.google.com/view/tutorialsbyali/home
 - 🏆 I like _"**Python**"_
 
-# Github Stats
+# Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alitheDev)](https://github.com/alitheDev/github-readme-stats)
 
-# Tech Stack:
+# Stack:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitheDEV&hide=javascript,css,scss,html&theme=tokyonight)
 
@@ -19,7 +19,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=alitheDev)](https://github.com/alitheDev/alitheDev)
 
 # Advice: 
-
-## Build Easy First
 
 ![Quotation-Mark-Zuckerberg-I-think-a-simple-rule-of-business-is-if-you-32-55-16](https://user-images.githubusercontent.com/48137657/189515988-f7377abb-8c90-419d-ace2-94b8ea7d50ed.jpg)
