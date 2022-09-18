@@ -14,9 +14,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitheDEV&hide=javascript,css,scss,html&theme=tokyonight)
 
-# Trophies:
+#  🏆 Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alitheDev)](https://github.com/alitheDev/alitheDev)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
 
 # Advice: 
 
