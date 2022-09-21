@@ -4,7 +4,7 @@
 - 📫 How to reach me: muhammadalisohail7996@gmail.com
 - 🎙️ My Twitter handle: https://twitter.com/rmaliofficial
 - ✍️ I Post Blogs here: https://sites.google.com/view/tutorialsbyali/home
-- 🏆 I like _"**Python**"_
+- 🏆 I like _"**Python**"_ because you can do plenty of things with it.
 
 # Stats
 
