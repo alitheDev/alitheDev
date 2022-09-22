@@ -23,5 +23,5 @@
 ![Quotation-Mark-Zuckerberg-I-think-a-simple-rule-of-business-is-if-you-32-55-16](https://user-images.githubusercontent.com/48137657/189515988-f7377abb-8c90-419d-ace2-94b8ea7d50ed.jpg)
 
 
-## Profile Count
+## Profile View Count
 ![](https://komarev.com/ghpvc/?username=alitheDev&color=green&label=PROFILE+VIEWS)
