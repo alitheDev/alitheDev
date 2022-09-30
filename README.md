@@ -19,15 +19,11 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
 
-# 💬 
-
-![Quotation-Mark-Zuckerberg-I-think-a-simple-rule-of-business-is-if-you-32-55-16](https://user-images.githubusercontent.com/48137657/189515988-f7377abb-8c90-419d-ace2-94b8ea7d50ed.jpg)
-
-
 ## 👀
 ![](https://komarev.com/ghpvc/?username=alitheDev&color=green&label=PROFILE+VIEWS)
 
-# I Prefer these
+# 👨‍💻
+
 <div align="left">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" /></code>
