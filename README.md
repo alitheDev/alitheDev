@@ -18,6 +18,11 @@
 |:---------:|:----------------------------------:|
 | Developer | 2021 - Till Date                  |
 
+## Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alitheDev&show_icons=true"/>
+</div>
+
 ## Prefer these
 
 <div align="center">
@@ -35,8 +40,8 @@
 </div>
 
 ## Easy With
-
 <div align="center">
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
