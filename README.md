@@ -7,24 +7,20 @@
 - 🏆 I like _"**Python**"_ because you can do plenty of things with it.
 - 🏆 My StackOverFlow: https://stackoverflow.com/users/10589426/muhammad-ali
 
-# ⭐
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alitheDev)](https://github.com/alitheDev/github-readme-stats)
+## So Far
 
-# 🧰⚒️ 
+| Fiverr  | Period of work                      |
+|:---------:|:----------------------------------:|
+| Programmer | 2021 - Till Date                 |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitheDEV&hide=javascript,css,scss,html&theme=tokyonight)
+| Upwork | Period of work                       |
+|:---------:|:----------------------------------:|
+| Developer | 2021 - Till Date                  |
 
-#  🏆
+## Prefer these
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
-
-## 👀
-![](https://komarev.com/ghpvc/?username=alitheDev&color=green&label=PROFILE+VIEWS)
-
-# 👨‍💻
-
-<div align="left">
+<div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android" /></code>
@@ -36,5 +32,47 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" /></code>
+</div>
 
+## Easy With
+
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+</p>
+</div>
+
+## Best Repo
+<div align="center">
+<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alitheDev&repo=ImageStenographyWithPython&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</div>
+
+## Streaks
+
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+</div>
+
+# Checklist
+ - [x] Freelancing income streams 
+ - [ ] Completing My Master In CS  
+ - [ ] Working at FAANG Company
+ - [ ] Creating Tech Based Startups
+
+
+## 👀
+
+![](https://komarev.com/ghpvc/?username=alitheDev&color=green&label=PROFILE+VIEWS)
+
+## 🥺
+
+<div align="center">
+<a href="your-own-link-from-the-website" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
