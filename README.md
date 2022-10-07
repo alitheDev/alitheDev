@@ -1,12 +1,14 @@
 ## 👨🏻‍💻 Hi there ,Ali Here.
 
+
 - 👉 I’m currently learning new technologies to explore my relevant potential in Tech industry.
 - 📫 Reach me: muhammadalisohail7996@gmail.com
 - 🎙️ Twitter: https://twitter.com/rmaliofficial
-- ✍️ Post Blogs here: https://sites.google.com/view/tutorialsbyali/home
-- 🏆 I like _"**Python**"_ because you can do plenty of things with it.
-- 🏆 My StackOverFlow: https://stackoverflow.com/users/10589426/muhammad-ali
 
+## Other Links:
+- LeetCode: https://leetcode.com/malisohail/
+- StackOverFlow: https://stackoverflow.com/users/10589426/muhammad-ali
+- Blogs here: https://sites.google.com/view/tutorialsbyali/home
 
 ## So Far Jobs
 
