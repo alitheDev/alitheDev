@@ -22,6 +22,11 @@
 |:---------:|:----------------------------------:|
 | Developer | 2021 - Till Date                  |
 
+| TCP | Period of work                       |
+|:---------:|:----------------------------------:|
+| Data Analyst | 2023 - Till Date                  |
+
+
 ## Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=alitheDev&show_icons=true"/>
@@ -43,21 +48,6 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" /></code>
 </div>
 
-## Easy With
-<div align="center">
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-</p>
-</div>
-
 ## Best Repo
 <div align="center">
 <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alitheDev&repo=ImageStenographyWithPython&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
@@ -65,10 +55,8 @@
 
 # Checklist
  - [x] Freelancing income streams 
- - [ ] Completing My Master In CS  
- - [ ] Working at FAANG Company
- - [ ] Creating Tech Based Startups
-
+ - [x] Starting Startup
+ 
 
 ## 👀
 
@@ -80,13 +68,4 @@
 <a href="your-own-link-from-the-website" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
 
-## Try these Scripts:
-- Networking Scripts:
-
-1-
-
-2-
-
-- 
--
--
+Lets Kode...
