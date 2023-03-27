@@ -1,36 +1,21 @@
+# A Full Stack Developer
 ## 👨🏻‍💻 Hi there ,Ali Here.
 
 
 - 👉 I’m currently learning new technologies to explore my relevant potential in Tech industry.
 - 📫 Reach me: muhammadalisohail7996@gmail.com
-- 🎙️ Twitter: https://twitter.com/rmaliofficial
-
-## Other Links:
-- HackerRank: https://www.hackerrank.com/muhammadalisoha1
-- LeetCode: https://leetcode.com/malisohail/
-- Hackerone: https://hackerone.com/hatf?type=user
 - StackOverFlow: https://stackoverflow.com/users/10589426/muhammad-ali
-- Blogs here: https://sites.google.com/view/tutorialsbyali/home
-
-## So Far Jobs
-
-| Fiverr  | Period of work                      |
-|:---------:|:----------------------------------:|
-| Programmer | 2021 - Till Date                 |
-
-| Upwork | Period of work                       |
-|:---------:|:----------------------------------:|
-| Developer | 2021 - Till Date                  |
-
-| TCP | Period of work                       |
-|:---------:|:----------------------------------:|
-| Data Analyst | 2023 - Till Date                  |
-
 
 ## Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=alitheDev&show_icons=true"/>
 </div>
+
+## Best Repo till date
+<div align="center">
+<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alitheDev&repo=ImageStenographyWithPython&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</div>
+
 
 ## Prefer these
 
@@ -48,24 +33,9 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" /></code>
 </div>
 
-## Best Repo
-<div align="center">
-<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alitheDev&repo=ImageStenographyWithPython&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-</div>
 
-# Checklist
- - [x] Freelancing income streams 
- - [x] Starting Startup
- 
-
-## 👀
+## 👀 Views so far
 
 ![](https://komarev.com/ghpvc/?username=alitheDev&color=green&label=PROFILE+VIEWS)
 
-## 🥺
-
-<div align="center">
-<a href="your-own-link-from-the-website" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</div>
-
-Lets Kode...
+Lets explore my repo's and use what good for you.
