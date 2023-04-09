@@ -1,19 +1,31 @@
-# Data Analyst
+# A Data Analyst by work
 ## 👨🏻‍💻 Hi there ,Ali Here.
 
 - 👉 I’m currently learning new technologies to explore my relevant potential in Tech industry.
 - 📫 Reach me: muhammadalisohail7996@gmail.com
 - StackOverFlow: https://stackoverflow.com/users/10589426/muhammad-ali
 
-Go-to the best repositories from here
-------------------------
-Get started In ReactJS? try this:
-https://github.com/alitheDev/SimpleReactApp
+# My Noteable Works
 
-Get a premium E-Commerce Template build with ReactJS
+
+## I Mostly post in
+
+https://github.com/alitheDev/DataScience
+
+## Get a premium E-Commerce Template build with ReactJS
+
 https://github.com/alitheDev/React_ECommerce
 
-Chnage Dark->Light and Light->Dark mode with button click
+## Want to hide something in an image?
+
+https://github.com/alitheDev/ImageStenographyWithPython
+
+## Scrape anyone from Wikipedia
+
+https://github.com/alitheDev/Scrape_Anyone_From_Wikipedia
+
+## Change Dark->Light and Light->Dark mode with button click
+
 https://github.com/alitheDev/ChangeDark2Light
 
 ## Stats
