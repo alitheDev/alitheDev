@@ -5,9 +5,11 @@
 - 📫 Reach me: muhammadalisohail7996@gmail.com
 - StackOverFlow: https://stackoverflow.com/users/10589426/muhammad-ali
 
-# Explore some of my Work
+# Pure-JS
 - Play some 🎵  https://github.com/alitheDev/Playfi
 - Make Notes 📝 https://github.com/alitheDev/MagicNotes
+
+# Python:
 - Hide something in an image(aka Stenography) 🖼️🔒  https://github.com/alitheDev/ImageStenographyWithPython
 - Scrape from Wikipedia 📰 https://github.com/alitheDev/Scrape_Anyone_From_Wikipedia
 - Click button to theme change 🌙 <=>☀️  https://github.com/alitheDev/ChangeDark2Light
